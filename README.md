@@ -1,6 +1,6 @@
 # Visitor-Locator
  
-It is a simple Visitor Locator, which shows the position of the visitors
+It is a simple Visitor Locator, which shows the position of the visitors the site, which sent their data.
 
 ## ListVisitors
 Shows the list with all visitors, which sent their data
